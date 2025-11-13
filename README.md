@@ -1,2 +1,2 @@
 # 3300-stockman-frontend
-Frontend assignment for Digital Product Management
+Front end assignment for Digital Product Management
