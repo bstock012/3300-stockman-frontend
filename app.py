@@ -10,7 +10,7 @@ app.config["SECRET_KEY"] = "by837y4r9gbf39fg87g39f4"
 CORS(app)
 
 # Get this URL from the Azure Overview page of your API web app
-api_url = "https://happy-meadow-0d1d4a10f.3.azurestaticapps.net"  # base url for API endpoints
+api_url = "https://orange-wave-0b1c9cb0f.3.azurestaticapps.net"  # base url for API endpoints
 
 
 # main index page route
